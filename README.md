@@ -2,6 +2,11 @@
 
 This is a simple fullstack app built with Next.js, Tailwind, tRPC and Prisma ORM
 
+### Demo
+
+![Screenshot 2023-03-16 at 17 39 55](https://user-images.githubusercontent.com/22290070/225658275-1992d8f6-99ac-4801-9996-cf0deed40b8a.png)
+
+
 ## tRPC
 
 Is a toolkit that enables us to build totally type safe applications by only using inference. It's a great tool for building APIs and it's very easy to use.
