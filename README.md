@@ -13,7 +13,15 @@ Is a toolkit that enables us to build totally type safe applications by only usi
 
 ## Prisma ORM
 
-Prisma is an ORM that enables us to write type safe queries to our database.
+Prisma is an ORM that enables us to write type safe queries to our database. It is a server-side library that helps developers read and write data to the database in an intuitive, efficient and safe way. It is easy to integrate into your framework of choice => Next.js, Graphql, Apollo, nest, Express e.t.c. Prisma simplifies database access, saves repetitive CRUD boilerplate and increases type safety. Its the perfect companion for building production-grade, robust and scalable web applications.
+
+## Zod
+
+Zod is a TypeScript-first schema builder for data validation and parsing. It's a great tool for validating data before it gets to the database. It's very easy to use and it's very fast.
+
+## Prisma Client
+
+Prisma Client is an auto-generated, type-safe query builder generated based on the models and attributes of your Prisma schema.
 
 ____________________________________________________________
 
